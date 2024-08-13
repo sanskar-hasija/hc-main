@@ -23,7 +23,7 @@ st.markdown("""
 
 # Create centered hyperlinks
 st.markdown('<div class="centered-text">'
-            '<a href="https://www.google.com" target="_blank">Occupany Dashboard</a>'
+            '<a href="https://hc-occupancy.streamlit.app/" target="_blank">Occupany Dashboard</a>'
             '</div>', unsafe_allow_html=True)
 
 st.markdown('<div class="centered-text">'
@@ -31,5 +31,5 @@ st.markdown('<div class="centered-text">'
             '</div>', unsafe_allow_html=True)
 
 st.markdown('<div class="centered-text">'
-            '<a href="https://www.google.com" target="_blank">Reservation Spike Analysis Dashboard</a>'
+            '<a href="https://hc-spike.streamlit.app/" target="_blank">Reservation Spike Analysis Dashboard</a>'
             '</div>', unsafe_allow_html=True)
